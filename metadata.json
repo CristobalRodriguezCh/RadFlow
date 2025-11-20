@@ -1,0 +1,5 @@
+{
+  "name": "Radiology Flow Enhancer",
+  "description": "An interactive tool to visualize, improve, and refine medical imaging workflows using Gemini AI.",
+  "requestFramePermissions": []
+}
